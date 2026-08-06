@@ -3,7 +3,7 @@ spring:
     name: isep-config-server
 isepat:
   dev:
-    Contact:
+    contact:
       prenom: Aissatou
       nom: Dione
       email: adione@gmail.com
