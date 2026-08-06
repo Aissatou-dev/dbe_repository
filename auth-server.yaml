@@ -1,2 +1,9 @@
 server:
   port: 3000
+ispat:
+  dev:
+    Contact:
+      prenom: Aissatou
+      nom: Dione
+      email: adione@gmail.com
+      adresse: sateme
