@@ -1,7 +1,7 @@
 spring:
   application:
     name: isep-config-server
-ispat:
+isepat:
   dev:
     Contact:
       prenom: Aissatou
