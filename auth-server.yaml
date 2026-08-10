@@ -4,7 +4,6 @@ ispat:
   dev:
     Contact:
       prenom: Ayou
-  isepat:
-    auth:
-      pwd:
-        minLength: 5
+  auth:
+    pwd:
+      minLength: 5
